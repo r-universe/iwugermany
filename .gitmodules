@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "clidamonger"]
+	path = clidamonger
+	url = https://github.com/iwugermany/clidamonger
+	shallow = true
+	registered = true
